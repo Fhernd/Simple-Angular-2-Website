@@ -1,3 +1,8 @@
+# About
+
+Simple Angular 2 Website. It presents how to create an Angular 2 application focused on a Website using Components and routing.
+
+
 # SimpleAngular2WebSite
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
